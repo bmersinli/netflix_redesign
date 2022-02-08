@@ -1,6 +1,7 @@
 # netflix_redesign
 
-A new flutter module project.
+A new flutter module p<img width="224" alt="Ekran Resmi 2022-02-08 14 35 21" src="https://user-images.githubusercontent.com/96727094/152978934-cdd714f2-8f7c-4142-920a-ffbac5c130e9.png">
+roject.
 
 ## Getting Started
 
